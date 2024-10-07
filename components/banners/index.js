@@ -1,0 +1,1 @@
+export { default as OfferBanner } from './offer-banner'

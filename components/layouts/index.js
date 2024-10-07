@@ -1,0 +1,1 @@
+export { default as CardsLayout } from './cards-layout'
